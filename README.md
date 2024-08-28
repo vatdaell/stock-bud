@@ -33,3 +33,11 @@
    git clone https://github.com/yourusername/stock-bud.git
    cd stock-bud
    ```
+
+### **Running the Application**
+
+1. **Clone the repository**:
+   ```bash
+   pip install -r requirements.txt
+   streamlit run main.py
+   ```
